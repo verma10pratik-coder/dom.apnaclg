@@ -1,0 +1,30 @@
+/* .heading{
+    color : blue;
+}
+
+body{
+    background-color : pink;
+}
+
+button{
+    backround : white;
+} */
+
+#box{
+    div : flex;
+    height : 200px;
+    width : 100px;
+    border : 1px solid black;
+    margin: 5px;
+    text-align: center;
+   background-color: aqua;
+
+}
+
+.condent{
+    color: red;
+}
+
+.newclass{
+    background-color: green;
+}
